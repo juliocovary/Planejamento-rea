@@ -1,0 +1,1 @@
+Iremos utilizar o diretório '/src' para o armazenar e compartilhar o material de apoio, códigos fonte, exercícios e URL dos videos entre os membros da equipe. O arquivo é temporário e está sujeito a alterações tanto no conteúdo quanto sua estrutura.
