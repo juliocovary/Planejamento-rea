@@ -12,5 +12,5 @@
 >**SE NÃO** for par, executa outro código
 
 **se não**
-    **console.log**("*x* eh um valor Impar");
+    **console.escreva**("*x* eh um valor Impar");
 **fim-se não**
