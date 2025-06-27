@@ -1,7 +1,7 @@
 ## Entrada de dados com laços, propriedades e funções: para, comprimento, empurre()(for, length e push()) 
 
 **variavel** *entrada* = **ler**("Digite o numero de elementos desejado:");<br>
-**variavel** *tam* = **converteInteiro**(*entrada*);
+**variavel** *tamanho* = **converteInteiro**(*entrada*);
 
 >Inicializa-se um vetor vazio
 
@@ -15,7 +15,7 @@
 
 >&emsp;&emsp;Adiciona um elemento ao topo da pilha do vetor
 
-&emsp;&emsp;***vet*.push**(*elemento*);<br>
+&emsp;&emsp;***vet*.empurre**(*elemento*);<br>
 **fim-para**
 
 >Impressao dos elementos do vetor

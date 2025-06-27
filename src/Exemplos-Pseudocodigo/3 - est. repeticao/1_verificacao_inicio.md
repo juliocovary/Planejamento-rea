@@ -11,4 +11,4 @@
 &emsp;&emsp;*n*++;<br>
 **fim-enquanto**
 
-**console.imprima**("Valor final de n: *n*");
+**console.escreva**("Valor final de n: *n*");
