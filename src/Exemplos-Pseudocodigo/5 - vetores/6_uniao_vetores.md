@@ -31,7 +31,7 @@
 
 >Impressao do *vetor1* após a união
 
-**console.escreva**("\n.Vetor 1 (apos uniao)");<br>
+**console.escreva**("*\n*.Vetor 1 (apos uniao)");<br>
 **para**(**variavel** *i* = 0; *i* < *tamanho*; *i*++)<br>
 &emsp;&emsp;**console.escreva**("Indice: *i* | Valor: *vetor1*[*i*]");<br>
 **fim-para**
