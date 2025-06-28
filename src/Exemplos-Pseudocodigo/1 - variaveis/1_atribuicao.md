@@ -18,7 +18,7 @@ seguido pelo nome da *variável*.<br>É recomendado que se faça a inicializaç�
 ### Constantes
 
 >Podemos declarar uma variável utilizando a palavra-chave de constante(const). Constantes contém valores imutáveis, ou seja,<br> não podem ser alterados, então, ao tentar reatribuir uma variável
-inicializada como uma constante seremos alertados com um erro.
+declarada como uma constante seremos alertados com um erro.
 
 **constante** *nome*;
 
