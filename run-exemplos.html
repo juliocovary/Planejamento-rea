@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+  <meta charset="UTF-8" />
+  <title>Descomplica Lógica - Executar Exemplos</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+      background-color: #4830A4;
+      /* Updated purple from user feedback */
+      text-align: center;
+      color: #E0D7F5;
+      /* Light purple for text */
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+    }
+
+    header {
+      margin-bottom: 20px;
+    }
+
+    img {
+      max-width: 20rem;
+      height: auto;
+    }
+  </style>
+</head>
+
+<body>
+  <header>
+    <img src="./src/exemplos/descomplica_logica.png" alt="Descomplica Lógica" />
+    <h1>Descomplica Lógica - Executar Exemplos</h1>
+  </header>
+
+  <script>
+    function runCorrecaoDeErros() {
+      let senhaCorreta = false;
+      do {
+        const senha = prompt('Adivinhe a senha:');
+        if (senha == '1234') {
+          senhaCorreta = true;
+          alert('Senha correta! Parabéns.');
+        } else {
+          alert('Senha incorreta. tente: 1234');
+        }
+      } while (!senhaCorreta);
+    }
+  </script>
+</body>
+
+</html>
