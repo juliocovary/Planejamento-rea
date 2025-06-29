@@ -57,7 +57,7 @@ switch (operador) {
     res = 0;
 }
 
-console.log(res);
+console.log("O resultado é: " + res);
 ```
 
 3.1 Exemplo simples de if/else if/else  
